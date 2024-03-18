@@ -1,1 +1,1 @@
-# Deap-sea-adventure
+# Deep-Sea-Adventure
